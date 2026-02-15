@@ -1,0 +1,5 @@
+API_KEY='1851eac86a591c1f4bfb1826edf51ca8'
+CITY='Dhaka'
+CSV_FILE='weather_data.csv'
+EXCEL_FILE='weather_data.xlsx'
+XML_FILE='weather_data.xml'
