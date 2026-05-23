@@ -4,3 +4,6 @@ env/
 .vscode/
 ml_env/
 __pycache__/
+*.csv
+*.xlsx
+eda_env/
